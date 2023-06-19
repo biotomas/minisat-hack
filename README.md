@@ -12,3 +12,7 @@ To process the results, run the "getResults.sh" shell script.
 To get the basic 20 points describe and implement one meaningful change (not something like messing with random seeds or lookup tables for the gvien benchmarks) to the code and do the evaluation. Your change must improve the results by solving at least 3 more problems or decreasing the total runtime by at least 10%.
 
 I will compare the modified MiniSats with each other and the author of the fastest one will a get a bonus of 20 additional points.
+
+Sources:
+* The MiniSat source code is taken from the MiniSat homepage: http://minisat.se/MiniSat.html
+* The benchmarks are from the 2006 Sat Race (The first benchmark test set) https://fmv.jku.at/sat-race-2006/downloads.html
