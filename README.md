@@ -10,3 +10,5 @@ To run the experiment run the "./parallelRunAll.sh" shell script. It will run 8 
 To process the results, run the "getResults.sh" shell script.
 
 To get the basic 20 points describe and implement one meaningful change (not something like messing with random seeds or lookup tables for the gvien benchmarks) to the code and do the evaluation. Your change must improve the results by solving at least 3 more problems or decreasing the total runtime by at least 10%.
+
+I will compare the modified MiniSats with each other and the author of the fastest one will a get a bonus of 20 additional points.
